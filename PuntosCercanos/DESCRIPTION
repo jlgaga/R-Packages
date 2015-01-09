@@ -1,0 +1,10 @@
+Package: PuntosCercanos
+Type: Package
+Title: Devuelve los indices de los puntos mas cercanos.
+Version: 1.0
+Date: 2015-01-08
+Author: Jose Luis Garcia <jluis.garcia.gar@gmail.com>
+Maintainer: Jose Luis Garcia <jluis.garcia.gar@gmail.com>
+Description: Tambien imprime los índices y los valores de los puntos mas cercanos segun distancia Euclidea. Soporta n-dimensiones
+License: GPL-2
+Depends: fields
